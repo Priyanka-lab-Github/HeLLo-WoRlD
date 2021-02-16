@@ -1,0 +1,2 @@
+create a new linux file for linux commands.
+There are several commanads in linux.
